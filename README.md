@@ -50,6 +50,7 @@ Atualmente, estou em busca da minha primeira oportunidade no mercado de trabalho
 
 <p align="center"><strong>LinkedIn:</strong> <code>https://www.linkedin.com/in/lucas-godoi-b920b4289/</code></p>
 <p align="center"><strong>Email:</strong> <code>lucasmanoel602@gmail.com</code></p>
+<a align="center"><strong>Portifólio:</strong> <code>https://corvopenado.github.io/portifolio/</code></a>
 
 ---
 
