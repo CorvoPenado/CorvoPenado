@@ -20,16 +20,14 @@ Atualmente, estou em busca da minha primeira oportunidade no mercado de trabalho
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="65" height="65" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="65" height="65"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="65" height="65"/>
+  <img alt="Lucas-Spring" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="65" height="65"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="65" height="65"/>
 </div>
 
 ### 🌱 O que estou aprendendo:
 <div>
-  <img align="center" alt="Lucas-Spring" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
   <img align="center" alt="Lucas-Docker" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" />
   <img align="center" alt="Lucas-AWS" height="65" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
 </div>
@@ -50,7 +48,7 @@ Atualmente, estou em busca da minha primeira oportunidade no mercado de trabalho
 
 <p align="center"><strong>LinkedIn:</strong> <code>https://www.linkedin.com/in/lucas-godoi-b920b4289/</code></p>
 <p align="center"><strong>Email:</strong> <code>lucasmanoel602@gmail.com</code></p>
-<p align="center"><strong>Portfolio:</strong> <code><a href="https://corvopenado.github.io/portfolio/" target="_blank">https://corvopenado.github.io/portifolio/</a></code></p>
+<p align="center"><strong>Portfolio:</strong> <code><a href="https://corvopenado.github.io/portfolio/" target="_blank">https://corvopenado.github.io/portfolio/</a></code></p>
 
 ---
 
